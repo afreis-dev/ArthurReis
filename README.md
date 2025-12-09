@@ -1,8 +1,7 @@
 # About me
 
 -  Computer Science student at **CESAR School**  
--  Desenvolvendo um **roguelike procedural em ASCII**  
--  Co-criador do **Organiza Festa**, um CRUD simples baseado em CSV  
+-  Desenvolvendo um **roguelike procedural em ASCII**
 -  Aprimorando minhas habilidades em Python, JS e C  
 
 ---
